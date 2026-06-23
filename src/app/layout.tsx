@@ -22,8 +22,8 @@ export const viewport = {
 };
 
 export const metadata = {
-  title: 'Undangan Pernikahan Jerfiko & Atifa',
-  description: 'Digital Wedding Invitation of Jerfiko & Atifa',
+  title: 'Undangan Pernikahan Wulan & Kevin',
+  description: 'Digital Wedding Invitation of Wulan & Kevin',
   appleMobileWebAppCapable: 'yes',
   appleMobileWebAppStatusBarStyle: 'black-translucent',
 };
