@@ -8,7 +8,8 @@ export default function GiftSection() {
     const [copied, setCopied] = useState<string | null>(null);
 
     const accounts = [
-        { bank: 'DANA', number: '081364494700', owner: 'Jefriko Armanda' }
+        { bank: 'BRI', number: '5542 0103 0251 533', owner: 'Wulan Ayu Mardhatillah' },
+        { bank: 'Sea Bank', number: '901960529483', owner: 'Kevin Aprilio' }
     ];
 
     const handleCopy = (num: string) => {
