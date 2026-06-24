@@ -22,8 +22,8 @@ export const viewport = {
 };
 
 export const metadata = {
-  title: 'Undangan Pernikahan Wulan & Kevin',
-  description: 'Digital Wedding Invitation of Wulan & Kevin',
+  title: 'Undangan Pernikahan Kevin & Wulan',
+  description: 'Digital Wedding Invitation of Kevin & Wulan',
   appleMobileWebAppCapable: 'yes',
   appleMobileWebAppStatusBarStyle: 'black-translucent',
 };

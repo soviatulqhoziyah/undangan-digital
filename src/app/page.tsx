@@ -87,7 +87,7 @@ function PageContent() {
                                 viewport={{ once: true }}
                                 className="relative z-10 space-y-6"
                             >
-                                <p className="text-4xl md:text-5xl font-serif text-primary italic">Wulan & Kevin</p>
+                                <p className="text-4xl md:text-5xl font-serif text-primary italic">Kevin & Wulan</p>
                                 <div className="w-16 h-0.5 bg-primary/20 mx-auto" />
                                 <div className="space-y-2">
                                     <p className="text-xs text-text-muted mt-2 tracking-[0.35em] uppercase font-bold">Thank you for being part of our journey</p>
