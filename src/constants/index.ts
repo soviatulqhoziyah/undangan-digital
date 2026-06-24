@@ -62,7 +62,9 @@ export const GALLERY = [
   "/images/foto4.jpeg",
   "/images/foto5.jpeg",
   "/images/foto6.jpeg",
-  "/images/foto7.jpeg"
+  "/images/foto7.jpeg",
+  "/images/foto8.jpeg",
+  "/images/foto9.jpeg"
 ];
 
 export const ASSETS = {
