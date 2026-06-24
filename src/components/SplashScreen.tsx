@@ -34,7 +34,7 @@ export default function SplashScreen() {
                             The Wedding of
                         </p>
                         <h1 className="text-4xl md:text-5xl font-serif text-primary italic leading-tight">
-                            {BRIDE_NAME.split(' ')[0]} & {GROOM_NAME.split(' ')[0]}
+                            {GROOM_NAME.split(' ')[0]} & {BRIDE_NAME.split(' ')[0]}
                         </h1>
                     </div>
 
