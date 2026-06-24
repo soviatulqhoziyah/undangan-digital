@@ -3,7 +3,6 @@
 import { useState, useEffect } from 'react';
 import { BRIDE, GROOM } from '@/constants';
 import { Copy, Send, Check } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
 
 export default function LinkGenerator() {
     const [guestName, setGuestName] = useState('');
@@ -26,7 +25,7 @@ _di tempat_
 
 Dengan hormat, kami bermaksud mengundang Bapak/Ibu/Saudara/i dalam acara pernikahan kami:
 
-*${BRIDE.name} & ${GROOM.name}*
+*${GROOM.name} & ${BRIDE.name}*
 
 Info lebih lengkap klik link dibawah ini:
 
