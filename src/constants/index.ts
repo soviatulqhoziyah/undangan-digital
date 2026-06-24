@@ -9,7 +9,7 @@ export const BRIDE = {
   father: "Syafwiadi",
   mother: "Ernita",
   instagram: "https://www.instagram.com/wulan.mrdhtllh",
-  image: "/images/cewe.png"
+  image: "/images/cewe.jpeg"
 };
 
 export const GROOM = {
